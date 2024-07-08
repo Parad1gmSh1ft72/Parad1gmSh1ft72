@@ -667,16 +667,6 @@ jobs:
     plugin_splatoon_statink_token: # optional, default is <default-value>
     # Source
     plugin_splatoon_source: # optional, default is <default-value>
-    # Enable stock plugin
-    plugin_stock: # optional, default is <default-value>
-    # Yahoo Finance token
-    plugin_stock_token: # optional, default is <default-value>
-    # Company stock symbol
-    plugin_stock_symbol: # optional, default is <default-value>
-    # Time range
-    plugin_stock_duration: # optional, default is <default-value>
-    # Time interval between points
-    plugin_stock_interval: # optional, default is <default-value>
           
     plugin_stock_interval: # optional, default is <default-value>
           
